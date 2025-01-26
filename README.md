@@ -82,3 +82,4 @@ To run the project locally, please follow the steps given below.
 Any comments, suggestions or corrections are welcome. Contribution are welcome as This repository is licensed under [MIT](https://opensource.org/licenses/MIT) License.
 
 # flask-book-api
+# latihan01
